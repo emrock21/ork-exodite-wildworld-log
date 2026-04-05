@@ -25,7 +25,7 @@ Main file: `contracts/ExoditeWildworldLog.sol`
 
 ## Example encounter
 
-```solidity
+
 recordEncounter(
   "Clan Starbloom",
   "A thunder‑drake wiv scales glowin' like molten stone.",
