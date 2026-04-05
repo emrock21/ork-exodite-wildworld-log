@@ -32,7 +32,6 @@ recordEncounter(
   "Da forest shifted aside like it knew where da beast wanted to go.",
   "Da feral pointy-ears charged ridin' da beast like it was part of 'em.",
   "Da scrap ended wiv da boyz runnin' from trees dat moved on their own."
-);
 
 Voting
 voteEncounter(1, true);
